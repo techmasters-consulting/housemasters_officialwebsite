@@ -13,6 +13,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('home');
-});
+
+Route::get('/', 'HomeController@index')->name('public.index');
+Route::post('send/email', 'HomeController@emailservice')->name('public.emailservice');
+// Route::group(['prefix' => 'admin'], function () {
+//     Voyager::routes();
+// });

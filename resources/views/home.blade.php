@@ -68,9 +68,6 @@
 </head>
 
 
-
-
-
 <body class="page header-ontop page-index-realestate-single navbar-layout-default" data-colour-scheme="green-bright">
 
 <!-- @plugin: page loading indicator, delete to remove loader -->
@@ -298,34 +295,12 @@
 
 
 
-                <!-- Item 1 -->
-                <div class="cbp-item ">
-                    <a class="cbp-caption" href="https://source.unsplash.com/a8K-puaPyVk/1040/">
-                        <div class="cbp-caption-defaultWrap">
-                            <img src="https://source.unsplash.com/a8K-puaPyVk/380x242/" alt="Unsplash photo" class="img-fluid">
-                        </div>
-                        <div class="cbp-caption-activeWrap">
-                            <div class="cbp-l-caption-alignCenter">
-                                <div class="cbp-l-caption-body">
-                                    <i class="ion-android-expand icon-1x"></i>
-                                    <h6 class="text-white">
-                                        Image 1
-                                    </h6>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <!--stop-->
-
-
-
 
 
                 <!--stop-->
 
                 <!-- Item 2 -->
-                <div class="cbp-item ">
+                <!-- <div class="cbp-item ">
                     <a class="cbp-caption" href="https://source.unsplash.com/dS62MvK4CtM/1040/">
                         <div class="cbp-caption-defaultWrap">
                             <img src="https://source.unsplash.com/dS62MvK4CtM/380x242/" alt="Unsplash photo" class="img-fluid">
@@ -341,138 +316,9 @@
                             </div>
                         </div>
                     </a>
-                </div>
-                <!-- Item 3 -->
-
-
-                <!-- Item 4 -->
-                <div class="cbp-item ">
-                    <a class="cbp-caption" href="https://source.unsplash.com/U-k6XLlml1I/1040/">
-                        <div class="cbp-caption-defaultWrap">
-                            <img src="https://source.unsplash.com/U-k6XLlml1I/494x642/" alt="Unsplash photo" class="img-fluid">
-                        </div>
-                        <div class="cbp-caption-activeWrap">
-                            <div class="cbp-l-caption-alignCenter">
-                                <div class="cbp-l-caption-body">
-                                    <i class="ion-android-expand icon-1x"></i>
-                                    <h6 class="text-white">
-                                        Image 4
-                                    </h6>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- Item 5 -->
-                <div class="cbp-item ">
-                    <a class="cbp-caption" href="https://source.unsplash.com/hTPUYIIvZBY/1040/">
-                        <div class="cbp-caption-defaultWrap">
-                            <img src="https://source.unsplash.com/hTPUYIIvZBY/380x242/" alt="Unsplash photo" class="img-fluid">
-                        </div>
-                        <div class="cbp-caption-activeWrap">
-                            <div class="cbp-l-caption-alignCenter">
-                                <div class="cbp-l-caption-body">
-                                    <i class="ion-android-expand icon-1x"></i>
-                                    <h6 class="text-white">
-                                        Image 5
-                                    </h6>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- Item 6 -->
-                <div class="cbp-item ">
-                    <a class="cbp-caption" href="https://source.unsplash.com/7tFlUFGa7Dk/1040/">
-                        <div class="cbp-caption-defaultWrap">
-                            <img src="https://source.unsplash.com/7tFlUFGa7Dk/380x242/" alt="Unsplash photo" class="img-fluid">
-                        </div>
-                        <div class="cbp-caption-activeWrap">
-                            <div class="cbp-l-caption-alignCenter">
-                                <div class="cbp-l-caption-body">
-                                    <i class="ion-android-expand icon-1x"></i>
-                                    <h6 class="text-white">
-                                        Image 6
-                                    </h6>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- Item 7 -->
-                <div class="cbp-item ">
-                    <a class="cbp-caption" href="https://source.unsplash.com/s95oB2n9jng/1040/">
-                        <div class="cbp-caption-defaultWrap">
-                            <img src="https://source.unsplash.com/s95oB2n9jng/380x242/" alt="Unsplash photo" class="img-fluid">
-                        </div>
-                        <div class="cbp-caption-activeWrap">
-                            <div class="cbp-l-caption-alignCenter">
-                                <div class="cbp-l-caption-body">
-                                    <i class="ion-android-expand icon-1x"></i>
-                                    <h6 class="text-white">
-                                        Image 7
-                                    </h6>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- Item 8 -->
-                <div class="cbp-item ">
-                    <a class="cbp-caption" href="https://source.unsplash.com/MyeOnGcibCQ/1040/">
-                        <div class="cbp-caption-defaultWrap">
-                            <img src="https://source.unsplash.com/MyeOnGcibCQ/380x242/" alt="Unsplash photo" class="img-fluid">
-                        </div>
-                        <div class="cbp-caption-activeWrap">
-                            <div class="cbp-l-caption-alignCenter">
-                                <div class="cbp-l-caption-body">
-                                    <i class="ion-android-expand icon-1x"></i>
-                                    <h6 class="text-white">
-                                        Image 8
-                                    </h6>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-
-
-                <!-- Item 12 -->
-                <div class="cbp-item ">
-                    <a class="cbp-caption" href="https://source.unsplash.com/RcdV8rnXSeE/1040/">
-                        <div class="cbp-caption-defaultWrap">
-                            <img src="https://source.unsplash.com/RcdV8rnXSeE/380x242/" alt="Unsplash photo" class="img-fluid">
-                        </div>
-                        <div class="cbp-caption-activeWrap">
-                            <div class="cbp-l-caption-alignCenter">
-                                <div class="cbp-l-caption-body">
-                                    <i class="ion-android-expand icon-1x"></i>
-                                    <h6 class="text-white">
-                                        Image 12
-                                    </h6>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- Item 13 -->
-                <div class="cbp-item ">
-                    <a class="cbp-caption" href="https://source.unsplash.com/qly35FEQwA4/1040/">
-                        <div class="cbp-caption-defaultWrap">
-                            <img src="https://source.unsplash.com/qly35FEQwA4/380x242/" alt="Unsplash photo" class="img-fluid">
-                        </div>
-                        <div class="cbp-caption-activeWrap">
-                            <div class="cbp-l-caption-alignCenter">
-                                <div class="cbp-l-caption-body">
-                                    <i class="ion-android-expand icon-1x"></i>
-                                    <h6 class="text-white">
-                                        Image 13
-                                    </h6>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
+                </div> -->
+               
+              
 
             </div>
             <div class="text-center">
@@ -583,7 +429,7 @@
 
         <div class="container">
             <div class="row justify-content-around">
-                <div class="col-md-4 mb-1 d-flex align-items-center justify-content-center"><i class="la la-phone icon-2x mr-2"></i>+230 58531705</div>
+                <div class="col-md-4 mb-1 d-flex align-items-center justify-content-center"><i class="la la-phone icon-2x mr-2"></i>+230 59881415</div>
                 <div class="col-md-4 mb-1 d-flex align-items-center justify-content-center"><i class="la la-envelope icon-2x mr-2"></i>findus@housemasters.mu</div>
                 <div class="col-md-4 mb-1 d-flex align-items-center justify-content-center"><a href="" class="text-white" ><i class="la la-linkedin icon-2x mr-2"></i></a>
                     <a class="text-white" href="https://www.facebook.com/housemasters.mu"><i class="la la-facebook icon-2x mr-2"></i></a>
@@ -626,12 +472,12 @@
                 <h4 class="modal-title  pr-8">
                     Register your Request!
                 </h4>
-                <div class="text-xs text-muted form-text pl-0">Need Assistance?<br /> call Shanon +230 58531705</div>
+                <div class="text-xs text-muted form-text pl-0">Need Assistance?<br /> call Shanon +230 59881415</div>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true">&times;</span> </button>
             </div>
             <div class="modal-body">
                 <p id="note">Tell us what you are looking for and leave the rest to us..</p>
-                <div class="alert">Thats it!, we would contact you ASAP. If its urgent, call Shanon on: +230 58531705</div>
+                <div class="alert">Thats it!, we would contact you ASAP. If its urgent, call Shanon on: +230 59881415</div>
 
                 <form id="requestForm" target="_self" method="POST" action="" onSubmit="return postToGoogle();">
                     <div class="form-row">
@@ -841,7 +687,7 @@
                     </div>
 
 
-
+<meta name="csrf-token" content="{{ csrf_token() }}">
 
 
                     <div class="form-row">
@@ -852,7 +698,7 @@
                         </div>
                         <div class="form-group col-md-6">
 
-                            <input type="text" required class="form-control form-control-rounded" id="flname" placeholder="Last Name">
+                            <input type="text" required class="form-control form-control-rounded" id="lname" placeholder="Last Name">
                         </div>
 
                         <div class="form-group col-md-6">
@@ -897,35 +743,61 @@
 <!--Hidden elements - excluded from jPanel Menu on mobile-->
 <div class="hidden-elements js-off-canvas-exclude"></div>
 
-<!-- Load Facebook SDK for JavaScript -->
-<div id="fb-root"></div>
-<script>
-    window.fbAsyncInit = function() {
-        FB.init({
-            xfbml            : true,
-            version          : 'v3.3'
-        });
-    };
+ <!--Load Facebook SDK for JavaScript -->
+<!--<div id="fb-root"></div>-->
+<!--<script>-->
+<!--    window.fbAsyncInit = function() {-->
+<!--        FB.init({-->
+<!--            xfbml            : true,-->
+<!--            version          : 'v3.3'-->
+<!--        });-->
+<!--    };-->
 
-    (function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s); js.id = id;
-        js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
-        fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));</script>
+<!--    (function(d, s, id) {-->
+<!--        var js, fjs = d.getElementsByTagName(s)[0];-->
+<!--        if (d.getElementById(id)) return;-->
+<!--        js = d.createElement(s); js.id = id;-->
+<!--        js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';-->
+<!--        fjs.parentNode.insertBefore(js, fjs);-->
+<!--    }(document, 'script', 'facebook-jssdk'));</script>-->
 
 <!-- Your customer chat code -->
-<div class="fb-customerchat"
-     attribution=setup_tool
-     page_id="535560266890298"
+<!--<div class="fb-customerchat"-->
+<!--     attribution=setup_tool-->
+<!--     page_id="535560266890298"-->
+<!--     theme_color="#44bec7"-->
+<!--     logged_in_greeting="Hi! Do you need a place to call home?"-->
+<!--     logged_out_greeting="Hi! Do you need a place to call home?">-->
+<!--</div>-->
+
+
+<!--// Load Facebook SDK for JavaScript -->
+     <div id="fb-root"></div>
+     <script>
+       window.fbAsyncInit = function() {
+         FB.init({
+           xfbml           : true,
+           version         : 'v6.0'
+         });
+       };
+
+       (function(d, s, id) {
+       var js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return;
+       js = d.createElement(s); js.id = id;
+       js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+       fjs.parentNode.insertBefore(js, fjs);
+     }(document, 'script', 'facebook-jssdk'));</script>
+
+      <!--Your customer chat code -->
+     <div class="fb-customerchat"
+       attribution=setup_tool
+       page_id="535560266890298"
      theme_color="#44bec7"
-     logged_in_greeting="Hi! Do you need a place to call home?"
+    logged_in_greeting="Hi! Do you need a place to call home?"
      logged_out_greeting="Hi! Do you need a place to call home?">
-</div>
-
-
-
+ 
+     </div>
 
 <!--jQuery 3.3.1 via CDN -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>

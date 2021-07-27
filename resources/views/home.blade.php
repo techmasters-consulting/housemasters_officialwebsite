@@ -20,11 +20,9 @@
     <link href="{{secure_asset('assets/css/theme-style.min.css')}}" rel="stylesheet">
 
     <!-- Bright green colour scheme -->
-    <link href="" rel="stylesheet">
+   
     <link href="{{secure_asset('assets/css/theme-style.min.css')}}" rel="stylesheet">
-    <!--Your custom colour override-->
-    <link href="#" id="colour-scheme" rel="stylesheet">
-
+    
     <!-- Your custom override -->
     <link href="{{secure_asset('assets/css/custom-style.css')}}" rel="stylesheet">
 
@@ -34,7 +32,7 @@
     <!-- Iconset: Font Awesome 5.0.13 via CDN -->
     <link href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" rel="stylesheet">
     <!-- Iconset: flag icons - https://lipis.github.io/flag-icon-css/ -->
-    <link href="assets/plugins/flag-icon-css/css/flag-icon.min.css" rel="stylesheet">
+    <link href="{{secure_asset('assets/plugins/flag-icon-css/css/flag-icon.min.css')}}" rel="stylesheet">
     <!-- Iconset: ionicons - https://ionicons.com/ -->
     <link href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" rel="stylesheet">
     <!-- Iconset: Linearicons - https://linearicons.com/free -->
@@ -88,7 +86,8 @@
                 <div class="header-brand">
 
                     <img width="57"
-                         height="30" src="assets/img/logo.png" alt="">            <a class="header-brand-text sticky-text-dark" href="index.html" title="Home">
+                         height="30" src="assets/img/logo.png" alt="">            
+                         <a class="header-brand-text sticky-text-dark" href="index.html" title="Home">
                         <h1 class="h3 text-dark op-8 font-weight-bold">
 
                             House Masters
@@ -812,9 +811,9 @@
 
 
 <!--Custom scripts & AppStrap API integration -->
-<script src="{{asset('assets/js/custom-script.js')}}"></script>
+<script src="{{secure_asset('assets/js/custom-script.js')}}"></script>
 <!--AppStrap scripts mainly used to trigger libraries/plugins -->
-<script src="{{asset('assets/js/script.min.js')}}"></script>
-<script src="{{asset('assets/js/post-to-api.js')}}"></script>
+<script src="{{secure_asset('assets/js/script.min.js')}}"></script>
+<script src="{{secure_asset('assets/js/post-to-api.js')}}"></script>
 </body>
 </html>

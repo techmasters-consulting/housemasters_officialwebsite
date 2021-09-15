@@ -151,12 +151,12 @@
 
                 </div>
 
-                <button type="button" class="mb-3 d-block mx-auto btn btn-xlg btn-green-bright text-uppercase btn-rounded-none">Real Estate Services</button>
+                <button type="button" class="mb-3 d-block mx-auto btn btn-xlg btn-green-bright text-uppercase btn-rounded-none">Real Estate & More</button>
                 <h2 class="display-3 font-weight-bold mb-2" data-animate="fadeInDown" data-animate-delay="0.6">
                     Affordable Houses in Mauritius
                 </h2>
                 <h4 class="font-weight-bold display-4 font-weight-light mb-5 mb-0 mb-b-sm-0">
-                    Buy, Rent or Share
+                    Buy, Rent or Sell
                 </h4>
                 <h5 class="check-details">
                     <a href="#features" data-toggle="scroll-link">More Details <i class="la la-long-arrow-down d-block"></i></a>
@@ -179,23 +179,23 @@
                 <div class="col-md-4 text-center" data-animate="fadeIn" data-animate-delay="0.1">
                     <i class="la la-group icon-3x text-blue align-baseline mb-2"></i>
                     <h4 class="text-dark op-9 mb-3">
-                        Competitive Service Fee
+                        Friendly Neighbourhood
                     </h4>
-                    <p class="text-dark op-7 mb-0">Fixed Registration Required</p>
+                    <p class="text-dark op-7 mb-0"> Home away from home</p>
                 </div>
                 <div class="col-md-4 text-center" data-animate="fadeIn" data-animate-delay="0.2">
                     <i class="la la-map-marker icon-3x text-blue align-baseline mb-2"></i>
                     <h4 class="text-dark op-9 mb-3">
                         Fully Furnished
                     </h4>
-                    <p class="text-dark op-7 mb-0">All our homes are fully equiped with free wifi unless on sale</p>
+                    <p class="text-dark op-7 mb-0">Fully equiped with wifi too</p>
                 </div>
                 <div class="col-md-4 text-center" data-animate="fadeIn" data-animate-delay="0.3">
                     <i class="la la-bed icon-3x text-blue align-baseline mb-2"></i>
                     <h4 class="text-dark op-9 mb-3">
                         Budget Friendly
                     </h4>
-                    <p class="text-dark op-7 mb-0">it is our duty to match you with a house that suits your budget</p>
+                    <p class="text-dark op-7 mb-0">According to your size</p>
                 </div>
             </div>
         </div>
@@ -212,7 +212,7 @@
                     Secure and Friendly Neighborhood
                 </h4>
                 <div class="text-dark op-9 mb-4">Our Apartments in flic and Flac are the most affordable in the region.
-                    Wheteher you want to be close to the sea side or the quiet area of the west coast, we have what you are loking for.</div>
+                    Wheteher you want to be close to the sea side or the quiet area of the west coast, we have what you are looking for.</div>
                 <div class="row row grid-inner-borders-dotted">
                     <div class="p-3 col-6 col-md-4" data-animate="fadeIn" data-animate-delay="0.3">
                         <div class=""><i class="la la-arrows-h icon-3x text-blue"></i></div>
@@ -229,7 +229,7 @@
                             Bedrooms
                         </h4>
                         <h4 class="text-dark op-9">
-                            1, 2 and 3
+                            1, 2, 3 or more 
                         </h4>
                     </div>
                     <div class="p-3 col-6 col-md-4" data-animate="fadeIn" data-animate-delay="0.1">
@@ -256,7 +256,7 @@
                             Car park
                         </h4>
                         <h4 class="text-dark op-9">
-                            1 or  2
+                            1 or 2
                         </h4>
                     </div>
                     <div class="p-3 col-6 col-md-4" data-animate="fadeIn" data-animate-delay="0.6">

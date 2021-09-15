@@ -9,43 +9,27 @@
 //}
 
 function postToGoogle() {
-
-
-
-
     var field1 = $("#fname").val();
     var field2 = $("#lname").val();
     var field3 = $("#inputEmail").val();
     var field4 = $("#phone").val();
     var field5 = $("#description").val().trim();
-     var field6 = $("#inputWho").val();
-     var field7 = $("#inputWhat").val();
-     var field8 = $("#inputWhere").val();
-     var field9 = $("#inputLength").val();
-       var content = " I am " + field6 + " Looking for " + field7 + " at  " + field8 + " for "  + field9 + " moredetails " + field5
-
-// $.ajax({
-//   type: "POST",
-//   url: "send/email",
-//   data: {email : field3},
-//   cache: false,
-//   success: function(data){
-//      //$("#resultarea").text(data);
-//   }
-// });
+    var field6 = $("#inputWho").val();
+    var field7 = $("#inputWhat").val();
+    var field8 = $("#inputWhere").val();
+    var field9 = $("#inputLength").val();
+    var content = " I am " + field6 + " Looking for " + field7 + " at  " + field8 + " for "  + field9 + " moredetails " + field5
     var send = {
         "async": true,
         "crossDomain": true,
-        "url": "http://housemasters.mu/send/email",
+        "url": "https://housemasters.mu/send/email",
         "method": "POST",
         "headers": {
             "Content-Type": "application/json",
             "Accept": "application/json"
 
         },
-
-
-        "data": "{\"email\": \""+field3+"\"}"
+     "data": "{\"email\": \""+field3+"\"}"
     }
     
       $.ajax(send).done(function (response) {
@@ -72,7 +56,7 @@ function postToGoogle() {
     var settings = {
         "async": true,
         "crossDomain": true,
-        "url": "http://54.243.19.57:80/espocrm/api/v1/LeadCapture/6f8d8c6efa159df0a4c1cb54edcc215f",
+        "url": "https://hmis.espocloud.com/api/v1/LeadCapture/9938426766db9c3fe37b9e358a4fac84",
         "method": "POST",
         "headers": {
             "Content-Type": "application/json",

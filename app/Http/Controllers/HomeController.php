@@ -17,28 +17,17 @@ class HomeController extends Controller
 
     public function index()
     {
-
-      $ch = curl_init()  ;
-curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
-curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-curl_setopt($ch, CURLOPT_URL, 'http://islandhomes.mu/secure/api/vendors/properties/12');
-$obj = curl_exec($ch);
-curl_close($ch);
-
-$api = json_decode($obj);
-
-//dd($api);
+        $ch = curl_init()  ;
+        curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+        curl_setopt($ch, CURLOPT_URL, 'http://islandhomes.mu/secure/api/vendors/properties/12');
+        $obj = curl_exec($ch);
+        curl_close($ch);
+        $api = json_decode($obj);
+        //dd($api);
         return view('home', compact('api'));
     }
 
-    public function marker_info()
-    {
-        return view('become-a-marker');
-    }
-    public function dashboard()
-    {
-        return view('dashboard');
-    }
        public function about (){
            $articles = $this->getArticleMenu();
            $services = $this->getServiceMenu();
@@ -52,12 +41,7 @@ $api = json_decode($obj);
 
             return view('faq', array('services'=>$services, 'articles'=>$articles));
         }
-    public function contact(){
-        $articles = $this->getArticleMenu();
-        $services = $this->getServiceMenu();
-
-        return view('contact', array('services'=>$services, 'articles'=>$articles));
-    }
+   
 
 
 
@@ -70,7 +54,7 @@ $api = json_decode($obj);
         $contact = $apiClient->getModel('CreateContact', ['email' => $request->email, 'listIds' => [7]]);
 
         try {
-            MailTemplate::to("itakpoodiso@gmail.com");
+            MailTemplate::to("housemasters.mu@gmail.com");
             MailTemplate::send(7);
             $contactsApi->createContact($contact);
         }

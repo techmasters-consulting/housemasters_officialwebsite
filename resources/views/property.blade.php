@@ -1,4 +1,4 @@
-@extends('layouts.inner')
+@extends('layouts.main')
     @section('content')
 
    <!-- ======== @Region: #highlighted ======== -->
@@ -17,7 +17,7 @@
       -->
       @include('includes.listings')
     <!-- ======== @Region: Latest News ======== -->
-    @include('includes.blog')
+    
     <!-- END Latest News-->
     <!-- ======== @Region: Footer upper ======== -->
 

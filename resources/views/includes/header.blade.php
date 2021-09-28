@@ -17,7 +17,7 @@ sticky-mt-0 sticky-mt-0 sticky-border-primary border-top-0 border-right-0 border
                 </h1>
             </a>
             <div class="header-divider d-none d-lg-inline-block header-divider-sm"></div>
-            <div class="header-slogan d-none d-lg-block">Real Estate Services</div>
+            <div class="header-slogan d-none d-lg-block">Real Estate & More</div>
         </div>
         <!-- other header content -->
         <div class="header-block d-flex order-12 align-items-center">

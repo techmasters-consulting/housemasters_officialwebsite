@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="msapplication-config" content="assets/favicons/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
-    <meta name="description" content="Real Estate and housing services">
+    <meta name="description" content="Real Estate and more">
     <meta name="author" content="Housemasters.mu">
     <title>Housemasters | Real Estate | Services</title>
     <!-- Bootstrap v4.3.1 CSS via CDN -->

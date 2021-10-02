@@ -9,10 +9,6 @@
 //}
 
 function postToGoogle() {
-
-
-
-
     var field1 = $("#fname").val();
     var field2 = $("#lname").val();
     var field3 = $("#inputEmail").val();
@@ -42,7 +38,7 @@ function postToGoogle() {
     var settings = {
         "async": true,
         "crossDomain": true,
-        "url": "http://54.243.19.57:80/espocrm/api/v1/LeadCapture/6f8d8c6efa159df0a4c1cb54edcc215f",
+        "url": "https://hmis.espocloud.com/api/v1/LeadCapture/9938426766db9c3fe37b9e358a4fac84",
         "method": "POST",
         "headers": {
             "Content-Type": "application/json",

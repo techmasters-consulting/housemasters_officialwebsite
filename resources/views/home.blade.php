@@ -140,61 +140,9 @@
         </div>
     </div>
     <!--END Standout-->
+    <hr class="w-lg-80 my-4" /> 
     <!-- ======== @Region: Photo Tour ======== -->
-    <div id="gallery" class="py-4 py-lg-6" data-toggle="magnific-popup" data-magnific-popup-settings='{"delegate": "a.cbp-caption", "gallery":{"enabled":true}}'>
-        <div class="container">
-            <div class="text-center mb-6 mb-0">
-                <h2 class="h1 font-weight-bold mb-3 text-dark op-9 text-green-bright">
-                    A picture is a thousand words
-                </h2>
-                <p class="text-dark op-7">
-                    Take a tour of our gallery below
-                    <br> Schedule an appointment to visit one that matches your requirement
-                </p>
-            </div>
-            <div id="cbp-loader" class="loading"></div>
-            <div class="fade my-5" data-toggle="cbp"
-                 data-settings='{"loader":"#cbp-loader","mediaQueries":[{"width": 480,"cols": 3},
-              {"width": 0,"cols": 1}], "sortToPreventGaps": true,"layoutMode":"mosaic","gapVertical":10,
-              "gapHorizontal":10,"animationType":"unfold","caption":"zoom"}'>
-
-
-
-
-
-
-                <!--stop-->
-
-                <!-- Item 2 -->
-                <!-- <div class="cbp-item ">
-                    <a class="cbp-caption" href="https://source.unsplash.com/dS62MvK4CtM/1040/">
-                        <div class="cbp-caption-defaultWrap">
-                            <img src="https://source.unsplash.com/dS62MvK4CtM/380x242/" alt="Unsplash photo" class="img-fluid">
-                        </div>
-                        <div class="cbp-caption-activeWrap">
-                            <div class="cbp-l-caption-alignCenter">
-                                <div class="cbp-l-caption-body">
-                                    <i class="ion-android-expand icon-1x"></i>
-                                    <h6 class="text-white">
-                                        Image 2
-                                    </h6>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div> -->
-               
-              
-
-            </div>
-            <div class="text-center">
-                <a 
-                        type="button" href="/listings"
-                        class="btn btn-rounded btn-bold btn-shadow px-4 py-2 mb-0 text-uppercase
-                        btn-green-bright text-white">See gallery</a>
-            </div>
-        </div>
-    </div>
+    @include('includes.listings')
     <!-- END Latest News-->
     <!-- ======== @Region: <Hr>
       ======== -->

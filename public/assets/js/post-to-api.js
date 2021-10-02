@@ -42,7 +42,7 @@ function postToGoogle() {
     var settings = {
         "async": true,
         "crossDomain": true,
-        "url": "http://crm.housemasters.mu/espocrm/api/v1/LeadCapture/e9523b855a02c0382120e21f4416f498",
+        "url": "https://hmis.espocloud.com/api/v1/LeadCapture/9938426766db9c3fe37b9e358a4fac84",
         "method": "POST",
         "headers": {
             "Content-Type": "application/json",

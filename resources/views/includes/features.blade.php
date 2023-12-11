@@ -1,13 +1,21 @@
 
 <div id="features" class="py-5 py-lg-6">
-    <div class="container container-1000">
-        <div class="row">
-            <div class="text-center col-md-12 mb-5">
-                <h2 class="h1 font-weight-bold mb-3 text-dark op-9 text-green-bright">
-                    Features
-                </h2>
-            </div>
-        </div>
+      <div class="container">
+                        <div class="text-center mb-6 mb-0">
+                            <h2 class="h1 font-weight-bold mb-3 text-dark op-9 text-green-bright">
+                                Features
+                            </h2>
+{{--                            <p class="text-dark op-7">--}}
+{{--                                Take a tour of our Listings below--}}
+{{--                                <br> Schedule an appointment to visit one that matches your requirement--}}
+{{--                            </p>--}}
+                        </div>
+                  </div>
+
+
+
+    <div class="container">
+
         <div class="row">
             <div class="col-md-4 text-center" data-animate="fadeIn" data-animate-delay="0.1">
                 <i class="la la-group icon-3x text-blue align-baseline mb-2"></i>

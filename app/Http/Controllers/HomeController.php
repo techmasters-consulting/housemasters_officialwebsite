@@ -41,7 +41,7 @@ class HomeController extends Controller
 
             return view('faq', array('services'=>$services, 'articles'=>$articles));
         }
-   
+
 
 
 
@@ -65,32 +65,32 @@ class HomeController extends Controller
     }
 }
 
-// <!-- 
+// <!--
 //                         @foreach($api as $child)
-                
+
 //                       @php
-         
+
 //   $slugs =  " https://islandhomes.mu/properties/".$child->slugs;
-  
+
 // @endphp -->
 //                 <!-- Item 1 -->
 //                 <div class="cbp-item ">
-                  
+
 //                     <a class="cbp-caption" href="{{$child->thumbnail}}">
 //                         <div class="cbp-caption-defaultWrap">
 //                             <img style="width:600px;height:350px" src="{{$child->thumbnail}}" alt="housemasters photo" class="img-fluid">
 //                         </div>
-                        
+
 //                         <div class="cbp-caption-activeWrap">
 //                             <div class="cbp-l-caption-alignCenter">
 //                                 <div class="cbp-l-caption-body">
 //                                     <i class="ion-android-expand icon-1x"></i>
 //                                     <h6 class="text-white">
 //                                        <!-- {{$child->name}} -->
-                                   
+
 //                                     </h6>
-                                 
-                                 
+
+
 //                                 </div>
 //                             </div>
 //                         </div>
@@ -98,5 +98,5 @@ class HomeController extends Controller
 //                        <a class="d-block btn btn-xlg btn-green-bright text-uppercase btn-rounded-none"  href="{{$slugs}}" role="button" style="color:white !important;">View more details</a>
 //                 </div>
 //                 <!--stop-->
-       
+
 // @endforeach
